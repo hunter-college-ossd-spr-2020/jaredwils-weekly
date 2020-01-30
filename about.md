@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+22 year old hunter college student.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+currently working part-time and going to school.
 
