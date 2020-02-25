@@ -17,6 +17,6 @@ Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature",
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
+|  5   | OSM Changeset   | OpenSteetMap Feature|  I updated some of the information for La Chula    |
 |     |     |     |      |
 |     |     |     |      |
