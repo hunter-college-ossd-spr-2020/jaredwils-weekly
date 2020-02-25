@@ -15,8 +15,8 @@ Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature",
 
 
 
-| Week #       | Contribution (Link)  | Type  | Description |
-|5|:OSM Changeset|:OpenSteetMap Feature|:I updated some of the information for La Chula|
-|  5   | OSM Changeset  | OpenSteetMap Feature|  I updated some of the information for La Chula |
+| Week #  5     | Contribution (https://www.openstreetmap.org/changeset/81463055)  |  OpenSteetMap Feature | I updated some of the information for La Chula  |
+|5|:OSM |:OpenSteetMap Feature|:I updated some of the information for La Chula|
+|  5   | https://www.openstreetmap.org/changeset/81463055 | OpenSteetMap Feature|  I updated some of the information for La Chula |
 |     |     |     |      |
 |     |     |     |      |
