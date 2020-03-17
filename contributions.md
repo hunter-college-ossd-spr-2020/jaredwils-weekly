@@ -28,4 +28,6 @@ following the same syntax.
 |  6   |   [Sushi Wen](https://www.openstreetmap.org/changeset/81934308)  | OpenStreetMap edit | Added Japanese restaurant to OpenStreetmap |
 | 6    |  [Bean and Leaves](https://www.openstreetmap.org/changeset/81935117)  | OpenStreetMap edit | Added Bean and Leaves to OpenStreetmap | 
 | 6    |  [Ho'Brah](https://www.openstreetmap.org/changeset/81935876)  | OpenStreatMap edit | Added Ho'Brah to the OpenStreetMap|
-| 6    | [Duffy's](https://www.openstreetmap.org/changeset/81936241)   | OpenStreetMap edit | Added Duffy's to the OpenStreetMap| 
+| 6    | [Duffy's](https://www.openstreetmap.org/changeset/81936241)   | OpenStreetMap edit | Added Duffy's to the OpenStreetMap|
+| 7    | [Harbor Eats](https://www.openstreetmap.org/changeset/82224206#map=19/40.64302/-74.10362)| OpenStreetMap edit | Added Duffy's to the OpenStreetMap|
+| 7    | [Blue](https://www.openstreetmap.org/changeset/82234095)| OpenStreetMap edit | Added Duffy's to the OpenStreetMap|
