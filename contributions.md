@@ -31,3 +31,5 @@ following the same syntax.
 | 6    | [Duffy's](https://www.openstreetmap.org/changeset/81936241)   | OpenStreetMap edit | Added Duffy's to the OpenStreetMap|
 | 7    | [Harbor Eats](https://www.openstreetmap.org/changeset/82224206#map=19/40.64302/-74.10362)| OpenStreetMap edit | Added Duffy's to the OpenStreetMap|
 | 7    | [Blue](https://www.openstreetmap.org/changeset/82234095)| OpenStreetMap edit | Added Duffy's to the OpenStreetMap|
+| 8    | [Animation](https://en.wikipedia.org/w/index.php?title=Animation&action=history)| Wikipedia Contribution | minor rewording |
+| 8    | [Rose Coombes Minshull](https://en.wikipedia.org/w/index.php?title=Rose_Coombes_Minshull&action=history)| Wikipedia Contrabution| minor date phrasing and rewording |
