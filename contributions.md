@@ -33,3 +33,4 @@ following the same syntax.
 | 7    | [Blue](https://www.openstreetmap.org/changeset/82234095)| OpenStreetMap edit | Added Duffy's to the OpenStreetMap|
 | 8    | [Animation](https://en.wikipedia.org/w/index.php?title=Animation&action=history)| Wikipedia Contribution | minor rewording |
 | 8    | [Rose Coombes Minshull](https://en.wikipedia.org/w/index.php?title=Rose_Coombes_Minshull&action=history)| Wikipedia Contrabution| minor date phrasing and rewording |
+| 9    | [Merged Request](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/pull/3)| Blog edit | Grammar changes and rewording|
