@@ -34,3 +34,5 @@ following the same syntax.
 | 8    | [Animation](https://en.wikipedia.org/w/index.php?title=Animation&action=history)| Wikipedia Contribution | minor rewording |
 | 8    | [Rose Coombes Minshull](https://en.wikipedia.org/w/index.php?title=Rose_Coombes_Minshull&action=history)| Wikipedia Contrabution| minor date phrasing and rewording |
 | 9    | [Merged Pull-Request](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/pull/3)| Blog edit | Grammar changes and rewording|
+| 9    | [Northern & Shell](https://en.wikipedia.org/w/index.php?title=Northern_%26_Shell&oldid=948593937)| Wikipedia Contribution| changes for consistency|
+| 9    | [Tethredo Vespa](https://en.wikipedia.org/w/index.php?title=Tenthredo_vespa&oldid=948592340)| Wikipedia Contribution | Grammatic edits and rewording|
