@@ -36,3 +36,4 @@ following the same syntax.
 | 9    | [Merged Pull-Request](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/pull/3)| Blog edit | Grammar changes and rewording|
 | 9    | [Northern & Shell](https://en.wikipedia.org/w/index.php?title=Northern_%26_Shell&oldid=948593937)| Wikipedia Contribution| changes for consistency|
 | 9    | [Tethredo Vespa](https://en.wikipedia.org/w/index.php?title=Tenthredo_vespa&oldid=948592340)| Wikipedia Contribution | Grammatic edits and rewording|
+| 10   | [Fixed link](https://github.com/freeCodeCamp/freeCodeCamp/pull/38577) | Project:freeCodeCamp contribution |
